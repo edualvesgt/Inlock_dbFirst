@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SZNlvP4BP28eaVFXkmDBN4BFZ4+87Dku7+gndTVWG1M=",
+  "Source": "webApi.inlock.db",
+  "BasePath": "_content/webApi.inlock.db",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
